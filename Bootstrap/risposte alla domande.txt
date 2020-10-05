@@ -1,0 +1,10 @@
+BTS 1.1:
+
+1) A cosa serve Bootstrap
+> Bootstrap è un framework gratuito per creare dei siti velocemente e molto più facilmente.
+
+2) Cosa devi imporatere per creare una pagina web con Bootstrap?
+> <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+
+3) Cos'è un CDN? che vantaggi comporta rispetot a scaricare bootstrap sul tuo sito?
+> CDN: Content Delivery Network , 
